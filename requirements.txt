@@ -1,0 +1,12 @@
+pillow==9.3.0
+pytelegrambotapi==3.7.7
+python-dotenv==0.15.0
+
+# pip3 install virtualenv
+# virtualenv venv --python=python3.8.5
+# source venv/bin/activate
+# pip install ~/Downloads/tensorflow-2.4.1-py3-none-any.whl
+# pip3 install -r requirements.txt
+# pip install opencv-contrib-python-headless
+# pip install numpy
+# pip install Flask
